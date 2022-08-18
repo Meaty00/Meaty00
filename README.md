@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meaty00
-I’m interested in Unity
-Currently learning C#
+- I’m interested in Unity
+- Currently learning C#
 
 Very Beginner
 
